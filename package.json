@@ -1,0 +1,26 @@
+{
+  "name": "dgmd11",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "framer": "^2.0.0-beta.17",
+    "framer-motion": "^5.6.0",
+    "framesync": "^6.1.0",
+    "hey-listen": "^1.0.8",
+    "next": "^12.0.9",
+    "popmotion": "^11.0.3",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "style-value-types": "^5.1.0"
+  },
+  "devDependencies": {
+    "eslint": "8.8.0",
+    "eslint-config-next": "12.0.9"
+  },
+  "packageManager": "yarn@3.1.1"
+}
